@@ -5,4 +5,4 @@
 # terraform init; terraform apply
 # docker ps
 # curl localhost:8000 
-# terraform delete
+# terraform destroy
