@@ -1,11 +1,11 @@
 ##main.tf
-terraform {
-  required_providers {
-    docker = {
-      source = "terraform-providers/docker"
-    }
-  }
-}
+#terraform {
+ # required_providers {
+  #  docker = {
+   #   source = "terraform-providers/docker"
+    #}
+  #}
+#}
 
 provider "docker" {}
 
